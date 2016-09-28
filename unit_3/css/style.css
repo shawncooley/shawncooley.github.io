@@ -1,0 +1,16 @@
+body {
+	text-align: center;
+	color: #7A0000;
+	font-size: 35px;
+	font-family: sans-serif; "Helvetica";
+}
+
+h1 {
+	font-size: 100px;
+	font-family: sans-serif; "Arial";
+}
+
+hr {
+	width: 500px;
+	color: #7A0000;
+}
