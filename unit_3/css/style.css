@@ -1,13 +1,15 @@
+
+
 body {
 	text-align: center;
 	color: #7A0000;
 	font-size: 35px;
-	font-family: sans-serif; "Helvetica";
+	font-family: 'EB Garamond', serif;
 }
 
 h1 {
 	font-size: 100px;
-	font-family: sans-serif; "Arial";
+	font-family: 'Bungee', cursive;
 }
 
 hr {
